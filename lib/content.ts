@@ -182,10 +182,10 @@ export const CONTACT = {
   intro:
     "Teaching and Learning Circles are designed to be flexible and genuinely supportive. If you have questions at any stage of the semester, we are here to help.",
   support: [
-    "Help with timetabling or rescheduling observations",
-    "Questions about observation protocols or reflection tools",
-    "Unsure how to approach a conversation or debrief",
-    "Any concerns about participation or group dynamics",
+    "Need help with timetabling or rescheduling observations",
+    "Have questions about observation protocols or reflection tools",
+    "Are unsure how to approach a conversation or debrief",
+    "Have any concerns about participation or group dynamics",
   ],
   confidentiality:
     "All TLC activities are developmental and non-evaluative. Any concerns raised are handled respectfully and, where appropriate, confidentially, so the experience stays constructive and positive for everyone.",
