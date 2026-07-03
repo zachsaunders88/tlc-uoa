@@ -38,7 +38,7 @@ export default function Hero() {
       {/* At-a-glance facts card, overlapping the banner edge */}
       <div className="container-page">
         <dl className="card -mt-12 grid grid-cols-1 divide-y divide-uoa-blue/10 px-7 py-2 sm:grid-cols-3 sm:divide-x sm:divide-y-0 sm:px-0 sm:py-0">
-          <Fact label="Your circle" value="3–4 colleagues" />
+          <Fact label="Your circle" value="4 colleagues" />
           <Fact label="Time commitment" value={`${HERO.commitmentValue} ${HERO.commitmentUnit}`} />
           <Fact label="TeachWell@UoA" value="Reflect & Contribute domains" />
         </dl>

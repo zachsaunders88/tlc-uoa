@@ -38,7 +38,7 @@ export const HERO = {
   title: "Teaching and\nLearning Circles",
   tagline: "Peer-driven · Reflective · Collegial",
   intro:
-    "A small group of 3 to 4 colleagues who are curious about teaching and want a dedicated space to think about it together. You visit each other's classes, not to assess or advise, but to observe with curiosity and reflect on what you see. The focus is always on your own practice: what watching someone else teach makes you notice, question, and want to try.",
+    "A small group of 4 colleagues who are curious about teaching and want a dedicated space to think about it together. You visit each other's classes, not to assess or advise, but to observe with curiosity and reflect on what you see. The focus is always on your own practice: what watching someone else teach makes you notice, question, and want to try.",
   commitmentValue: "5–6",
   commitmentUnit: "hours across the semester",
   alignment: "Aligned with the Reflect & Contribute domains of TeachWell@UoA",
