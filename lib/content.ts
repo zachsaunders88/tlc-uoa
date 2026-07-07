@@ -13,7 +13,7 @@ export const asset = (path: string) => `${BASE_PATH}${path}`;
 
 export const LINKS = {
   /** Register-interest destination, e.g. a Microsoft Forms / Qualtrics URL. */
-  registerUrl: "https://forms.gle/eFe7Fyq8tXhrP5G16",
+  registerUrl: "https://forms.cloud.microsoft/r/qETrFtcp6P",
   /** Programme team contact address. */
   programmeEmail: "teachinglearningcircles@auckland.ac.nz",
   /** Full resource-pack PDF (lives in /public). */
